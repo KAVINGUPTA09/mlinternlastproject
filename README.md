@@ -158,19 +158,6 @@ Available on Kaggle: [https://www.kaggle.com/c/ieee-fraud-detection](https://www
 
 ---
 
-## 📸 Screenshots
-
-> Run the app locally, take screenshots, save them inside the `screenshots/` folder, push to GitHub, then paste links below like this:
-
-```
-![Dashboard Home](screenshots/home.png)
-![Fraud Prediction](screenshots/prediction.png)
-![SHAP Visuals](screenshots/shap.png)
-```
-
-<!-- Once you've pushed screenshots, uncomment the lines above and delete this comment block -->
-
----
 
 ## 🚀 Future Improvements
 
